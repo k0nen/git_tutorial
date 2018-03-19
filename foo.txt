@@ -1,3 +1,4 @@
 foo
 bar
 
+this sentence is written from cloned folder!
